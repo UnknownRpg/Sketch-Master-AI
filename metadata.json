@@ -1,0 +1,7 @@
+{
+  "name": "Sketch Master AI",
+  "description": "A real-time AI drawing challenge where Gemini watches you sketch and provides live commentary and feedback as you race against the clock.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
